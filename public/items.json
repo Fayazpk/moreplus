@@ -4,20 +4,27 @@
         "description": "Washing powder with a smart formula for brilliant cleaning and 99.9% germ removal.",
         "category": "Laundry Products",
         "usage": "Used for machine and hand washing of clothes.",
-        "image": "https://example.com/images/more-plus-washing-powder.jpg"
+        "image": "washingpowder.png"
       },
       {
         "title": "More Plus Liquid Detergent",
         "description": "Liquid detergent for deep cleaning, formulated to remove tough stains and provide a fresh fragrance. Net volume 1 liter.",
         "category": "Laundry Products",
         "usage": "Used for machine and hand washing of clothes.",
-        "image": "https://example.com/images/more-plus-liquid-detergent.jpg"
+        "image": "/detergent liquid.jpg"
       },
       {
         "title": "More Plus Washing Soap",
         "description": "Washing soap bar made with a coconut oil formula for expert-quality cleaning on all types of fabric.",
         "category": "Laundry Products",
         "usage": "Used for hand washing clothes.",
-        "image": "https://example.com/images/more-plus-washing-soap.jpg"
+        "image": "/washingbar.png"
+      },
+      {
+        "title": "More Plus Washing Soap",
+        "description": "Washing soap bar made with a coconut oil formula for expert-quality cleaning on all types of fabric.",
+        "category": "Laundry Products",
+        "usage": "Used for hand washing clothes.",
+        "image": "/washingbar.png"
       }
 ]
