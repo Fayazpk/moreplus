@@ -9,10 +9,10 @@ interface CardProps {
   
   export default function Card({ title, description, image, link = "#" }: CardProps) {
     return (
-      <div className="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 hover:border-blue-200">
+      <div className="group bg-white rounded-xl overflow-hidden  shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100 hover:border-blue-200">
         {/* Large Image Container */}
         <div className="relative h-56 overflow-hidden">
-          <Image 
+          <img 
             src={image} 
             alt={title}
             className="w-full h-full object-cover group-hover:scale-102 transition-transform duration-500"

@@ -9,22 +9,22 @@
       {
         "title": "More Plus Liquid Detergent",
         "description": "Liquid detergent for deep cleaning, formulated to remove tough stains and provide a fresh fragrance. Net volume 1 liter.",
-        "category": "Laundry Products",
-        "usage": "Used for machine and hand washing of clothes.",
+        "category": "Liquid Detergent",
+        "usage": "Laundry Products",
         "image": "/detergent liquid.jpg"
       },
       {
         "title": "More Plus Washing Soap",
         "description": "Washing soap bar made with a coconut oil formula for expert-quality cleaning on all types of fabric.",
-        "category": "Laundry Products",
-        "usage": "Used for hand washing clothes.",
+        "category": " Washing Soap",
+        "usage": "Laundry Products",
         "image": "/washingbar.png"
       },
       {
         "title": "More Plus Washing Soap",
         "description": "Washing soap bar made with a coconut oil formula for expert-quality cleaning on all types of fabric.",
-        "category": "Laundry Products",
-        "usage": "Used for hand washing clothes.",
+        "category": "Washing Soap",
+        "usage": "Laundry Products",
         "image": "/washingbar.png"
       }
 ]
