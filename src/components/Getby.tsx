@@ -69,7 +69,7 @@ interface product{
         </div>
 
         {/* --- Cards --- */}
-        <div className="max-w-6xl w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 lg:gap-16">
+        <div className="grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 lg:grid-cols-4 p-4">
           {getby.map((item, index) => {
             const isLeft = index === 0;
             return (
