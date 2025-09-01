@@ -1,30 +1,58 @@
 [
-      {
-        "title": "More Plus Washing Powder",
-        "description": "Washing powder with a smart formula for brilliant cleaning and 99.9% germ removal.",
-        "category": "Laundry Products",
-        "usage": "Used for machine and hand washing of clothes.",
-        "image": "washingpowder.png"
-      },
-      {
-        "title": "More Plus Liquid Detergent",
-        "description": "Liquid detergent for deep cleaning, formulated to remove tough stains and provide a fresh fragrance. Net volume 1 liter.",
-        "category": "Liquid Detergent",
-        "usage": "Laundry Products",
-        "image": "/detergent liquid.jpg"
-      },
-      {
-        "title": "More Plus Washing Soap",
-        "description": "Washing soap bar made with a coconut oil formula for expert-quality cleaning on all types of fabric.",
-        "category": " Washing Soap",
-        "usage": "Laundry Products",
-        "image": "/washingbar.png"
-      },
-      {
-        "title": "More Plus Washing Soap",
-        "description": "Washing soap bar made with a coconut oil formula for expert-quality cleaning on all types of fabric.",
-        "category": "Washing Soap",
-        "usage": "Laundry Products",
-        "image": "/washingbar.png"
-      }
+  {
+    "title": "More Plus Liquid Detergent",
+    "description": "Liquid detergent for deep cleaning, formulated to remove tough stains and provide a fresh fragrance. Net volume 1 liter.",
+    "category": "Laundry Products",
+    "usage": "Used for machine and hand washing of clothes.",
+    "image": "/detergent liquid.jpg"
+  },
+  {
+    "title": "More Plus Detergent Bar",
+    "description": "Powerful detergent bar that removes stains effectively from clothes.",
+    "category": "Laundry Products",
+    "usage": "Best for washing clothes by hand.",
+    "image": "/detergentbar.png"
+  },
+  {
+    "title": "More Plus Dishwash Bar",
+    "description": "Tough on grease and gentle on hands, gives sparkling clean dishes.",
+    "category": "Dishwashing Products",
+    "usage": "Used for washing utensils.",
+    "image": "/dishwashbar.png"
+  },
+  {
+    "title": "More Plus Fabric Softener",
+    "description": "Keeps clothes soft, fresh, and fragrant after every wash.",
+    "category": "Laundry Products",
+    "usage": "Used after washing clothes to soften fabric.",
+    "image": "/fabric softner.png"
+  },
+  {
+    "title": "More Plus Hand Wash",
+    "description": "Kills 99.9% germs while keeping hands soft and moisturized.",
+    "category": "Personal Care",
+    "usage": "Hand hygiene and germ protection.",
+    "image": "/handwash.png"
+  },
+  {
+    "title": "More Plus Phenyl",
+    "description": "Disinfectant floor cleaner with strong germ-killing formula.",
+    "category": "Cleaning Products",
+    "usage": "Used for floor and surface cleaning.",
+    "image": "/phenyl.png"
+  },
+  {
+    "title": "More Plus Washing Soap",
+    "description": "Washing soap bar made with a coconut oil formula for expert-quality cleaning on all types of fabric.",
+    "category": "Laundry Products",
+    "usage": "Best for washing clothes by hand.",
+    "image": "/washingbar.png"
+  },
+  {
+    "title": "More Plus Washing Powder",
+    "description": "Washing powder with a smart formula for brilliant cleaning and 99.9% germ removal.",
+    "category": "Laundry Products",
+    "usage": "Used for machine and hand washing of clothes.",
+    "image": "/washingpowder.png"
+  }
 ]
